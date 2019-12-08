@@ -1,4 +1,5 @@
 # EC601_MiniProject3
+# Erin O'Neill
 
 ## DSP Visualization options 
  This project contains code for 2 different DSP visualization types in Python.  
